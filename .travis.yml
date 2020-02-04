@@ -1,5 +1,7 @@
 language: crystal
 
+cache: shards
+
 install:
   - shards install
 
